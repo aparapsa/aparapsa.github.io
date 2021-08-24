@@ -140,11 +140,13 @@ p {
 
 .top-container {
     width: 500px;
-    margin: 0;
+    margin: 40px 0 0 0;
 }
 
-.yellow-img {
-    margin-top: 60px;
+
+.photoby {
+    text-align:left ;
+    margin: 0;
 }
 .scroll{
   color: #2864b1;
